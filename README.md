@@ -1,5 +1,5 @@
-### EX NO : 9
-### DATE  :
+### EX NO: 9
+### DATE: 23.05.2022
 # <p align="center"> KNN CLASSIFICATION ALGORITHM </p>
 ## Aim:
    To implement KNN classification algorithm in python.
